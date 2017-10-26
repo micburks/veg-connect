@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Connect to and manipulate veggie server via command-line REPL",
   "main": "index.js",
+  "bin": "./bin/veg-connect",
   "scripts": {
     "build": "rollup -c",
     "version": "npm run build",

@@ -1,5 +1,5 @@
 # veg-connect
-Connect to and manipulate veggie server via command-line REPL
+Connect to and manipulate [veggie](https://www.npmjs.com/package/veggie) server via command-line REPL
 
 ## Installation
 
@@ -9,7 +9,7 @@ npm i -g veg-connect
 
 ## Use
 
-veg-connect will connect a REPL (run-eval-print-loop) to a running [veggie](https://www.npmjs.com/package/veggie) server via unix sockets.
+veg-connect will connect a REPL (run-eval-print-loop) to a running veggie server via unix sockets.
 
 ```bash
 veg-connect

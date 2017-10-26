@@ -10,8 +10,8 @@ const cli = meow(`
         $ veg-connect
 
       Options
-        -v, --version   Output veg-connect version and exit
-        -s, --silent    Disable veg-connect logging
+        -v, --version   Output version and exit
+        -s, --silent    Disable logging
 
       Examples
         $ veg-connect
